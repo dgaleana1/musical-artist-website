@@ -1,0 +1,21 @@
+body{
+    background-image:url('https://www.rollingstone.com/wp-content/uploads/2020/04/monsta-x-members.png?w=624');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color:antiquewhite;
+}
+h2{
+    color:antiquewhite;
+}
+p{
+    color:antiquewhite;
+    background-color: #bc8f8f;
+}
+table, th, td{
+    color: aliceblue;
+    border: 1px solid aliceblue;
+    background-color: #bc8f8f;
+}
