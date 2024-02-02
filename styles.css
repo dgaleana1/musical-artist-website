@@ -5,10 +5,14 @@ body{
     background-size: cover;
 }
 h1{
-    color:antiquewhite;
+   color:rgb(219, 157, 75);
 }
-h2{
-    color:antiquewhite;
+#Sign{
+    color:#bc8f8f;
+    border:2px solid#bc8f8f
+}
+#Sign{
+    background-color:antiquewhite
 }
 p{
     color:antiquewhite;
@@ -19,3 +23,22 @@ table, th, td{
     border: 1px solid aliceblue;
     background-color: #bc8f8f;
 }
+form{
+    color: #bc8f8f
+}
+form{
+    border: 2px solid #bc8f8f
+}
+form{
+    background-color:#faebd7;
+}
+
+h1{
+    color:antiquewhite;
+}
+
+h2{
+    color:beige;
+}
+
+
